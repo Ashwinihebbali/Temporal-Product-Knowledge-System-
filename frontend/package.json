@@ -1,0 +1,21 @@
+{
+  "name": "chronodev-frontend",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1"
+  },
+  "dependencies": {
+    "cytoscape": "^3.33.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "vis-data": "^8.0.1",
+    "vis-timeline": "^8.5.1"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "raw_rows": {
+    "issue": 5796,
+    "issue_comment": 17146,
+    "issue_component": 4877,
+    "issue_fix_version": 1899,
+    "issue_link": 484,
+    "change_set": 13114,
+    "change_set_link": 2609,
+    "code_change": 117568
+  },
+  "issues_dropped_no_text": 0,
+  "commits_merge_removed": 11,
+  "clean_rows": {
+    "issue": 5796,
+    "issue_comment": 17111,
+    "issue_component": 4877,
+    "issue_fix_version": 1899,
+    "issue_link": 444,
+    "change_set": 12958,
+    "change_set_link": 2604,
+    "code_change": 110342,
+    "ground_truth_links": 2604
+  }
+}

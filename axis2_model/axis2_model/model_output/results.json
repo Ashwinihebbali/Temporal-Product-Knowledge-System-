@@ -1,0 +1,30 @@
+{
+  "split_date": "2010-03-01 21:18:05",
+  "train_pairs": 16342,
+  "results": [
+    {
+      "model": "baseline: TF-IDF cosine",
+      "n_test_issues": 548,
+      "MRR": 0.3076,
+      "Recall@1": 0.2089,
+      "Recall@5": 0.3377,
+      "Recall@10": 0.3786
+    },
+    {
+      "model": "GBM (all features)",
+      "n_test_issues": 548,
+      "MRR": 0.996,
+      "Recall@1": 0.871,
+      "Recall@5": 0.9915,
+      "Recall@10": 0.9972
+    },
+    {
+      "model": "GBM (no issue-ID feature)",
+      "n_test_issues": 548,
+      "MRR": 0.806,
+      "Recall@1": 0.6515,
+      "Recall@5": 0.8352,
+      "Recall@10": 0.8881
+    }
+  ]
+}

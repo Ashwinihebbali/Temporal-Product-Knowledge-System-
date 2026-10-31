@@ -1,0 +1,445 @@
+source_issue_id,target_issue_id,name,outward_label,is_containment
+AXIS2-5743,AXIS2-5738,Duplicate,duplicates,0
+AXIS2-5759,AXIS2-5757,Duplicate,duplicates,0
+AXIS2-5704,AXIS2-5702,Blocker,blocks,0
+AXIS2-5789,AXIS2-5724,Duplicate,duplicates,0
+AXIS2-5794,AXIS2-5793,Duplicate,duplicates,0
+AXIS2-5795,AXIS2-5778,Duplicate,duplicates,0
+AXIS2-5702,AXIS2-5703,Part-of,,1
+AXIS2-5702,AXIS2-5704,Part-of,,1
+AXIS2-5702,AXIS2-5705,Part-of,,1
+AXIS2-5702,AXIS2-5706,Part-of,,1
+AXIS2-5710,AXIS2-5709,Duplicate,duplicates,0
+AXIS2-5797,AXIS2-5724,Cloners,is a clone of,0
+AXIS2-5797,AXIS2-5724,Duplicate,duplicates,0
+AXIS2-5769,AXIS2-5460,Cloners,is a clone of,0
+AXIS2-5769,AXIS2-5460,Duplicate,duplicates,0
+AXIS2-3567,AXIS2-3568,Reference,relates to,0
+AXIS2-3521,AXIS2-3458,Reference,relates to,0
+AXIS2-3559,AXIS2-65,Reference,relates to,0
+AXIS2-3532,AXIS2-3428,Reference,relates to,0
+AXIS2-3546,AXIS2-3562,Blocker,blocks,0
+AXIS2-3590,AXIS2-3736,Reference,relates to,0
+AXIS2-3504,AXIS2-3919,Reference,relates to,0
+AXIS2-3549,AXIS2-3576,Blocker,blocks,0
+AXIS2-3538,AXIS2-4615,Part-of,,1
+AXIS2-2265,AXIS2-2688,Reference,relates to,0
+AXIS2-2279,AXIS2-2263,Blocker,blocks,0
+AXIS2-2276,AXIS2-2275,Reference,relates to,0
+AXIS2-2275,AXIS2-2276,Reference,relates to,0
+AXIS2-4614,AXIS2-2195,Reference,relates to,0
+AXIS2-4612,AXIS2-4014,Cloners,is a clone of,0
+AXIS2-4635,AXIS2-4382,Duplicate,duplicates,0
+AXIS2-4618,AXIS2-3133,Duplicate,duplicates,0
+AXIS2-4686,AXIS2-3444,Duplicate,duplicates,0
+AXIS2-4677,AXIS2-4222,Duplicate,duplicates,0
+AXIS2-4674,AXIS2-4871,Reference,relates to,0
+AXIS2-4637,AXIS2-4638,Duplicate,duplicates,0
+AXIS2-4611,AXIS2-5322,Reference,relates to,0
+AXIS2-4626,AXIS2-4544,Duplicate,duplicates,0
+AXIS2-4711,AXIS2-4714,Duplicate,duplicates,0
+AXIS2-4766,AXIS2-4092,Cloners,is a clone of,0
+AXIS2-4786,AXIS2-4712,Duplicate,duplicates,0
+AXIS2-3090,AXIS2-3114,Reference,relates to,0
+AXIS2-3075,AXIS2-2413,Reference,relates to,0
+AXIS2-3037,AXIS2-4859,Duplicate,duplicates,0
+AXIS2-3084,AXIS2-2998,Reference,relates to,0
+AXIS2-3084,AXIS2-3588,Reference,relates to,0
+AXIS2-3258,AXIS2-3230,Reference,relates to,0
+AXIS2-3258,AXIS2-272,Reference,relates to,0
+AXIS2-3223,AXIS2-3500,Reference,relates to,0
+AXIS2-3255,AXIS2-2675,Duplicate,duplicates,0
+AXIS2-3279,AXIS2-3656,Reference,relates to,0
+AXIS2-3257,AXIS2-3288,Reference,relates to,0
+AXIS2-5043,AXIS2-4967,Supercedes,supercedes,0
+AXIS2-5043,AXIS2-5035,Supercedes,supercedes,0
+AXIS2-5043,AXIS2-5037,Supercedes,supercedes,0
+AXIS2-5043,AXIS2-5036,Supercedes,supercedes,0
+AXIS2-5070,AXIS2-3034,Blocker,blocks,0
+AXIS2-5013,AXIS2-5541,Duplicate,duplicates,0
+AXIS2-5095,AXIS2-4648,Duplicate,duplicates,0
+AXIS2-1652,AXIS2-1425,Reference,relates to,0
+AXIS2-1652,AXIS2-1639,Reference,relates to,0
+AXIS2-1650,AXIS2-1624,Blocker,blocks,0
+AXIS2-4370,AXIS2-4075,Reference,relates to,0
+AXIS2-4370,AXIS2-4626,Reference,relates to,0
+AXIS2-4377,AXIS2-4114,Reference,relates to,0
+AXIS2-4321,AXIS2-4467,Reference,relates to,0
+AXIS2-4342,AXIS2-4341,Duplicate,duplicates,0
+AXIS2-4314,AXIS2-3870,Cloners,is a clone of,0
+AXIS2-4319,AXIS2-1702,Cloners,is a clone of,0
+AXIS2-4319,AXIS2-2706,Reference,relates to,0
+AXIS2-4386,AXIS2-2905,Reference,relates to,0
+AXIS2-4346,AXIS2-3523,Reference,relates to,0
+AXIS2-4318,AXIS2-3933,dependent,depends upon,0
+AXIS2-4364,AXIS2-4280,Duplicate,duplicates,0
+AXIS2-4315,AXIS2-3022,Reference,relates to,0
+AXIS2-4385,AXIS2-4987,Reference,relates to,0
+AXIS2-4385,AXIS2-4988,Reference,relates to,0
+AXIS2-4394,AXIS2-3258,Reference,relates to,0
+AXIS2-4311,AXIS2-4787,Reference,relates to,0
+AXIS2-1539,AXIS2-1546,Part-of,,1
+AXIS2-1507,AXIS2-1487,Incorporates,incorporates,0
+AXIS2-1507,AXIS2-1494,Incorporates,incorporates,0
+AXIS2-1507,AXIS2-1495,Incorporates,incorporates,0
+AXIS2-1507,AXIS2-1496,Incorporates,incorporates,0
+AXIS2-1561,AXIS2-2744,Reference,relates to,0
+AXIS2-1506,AXIS2-1186,Incorporates,incorporates,0
+AXIS2-1506,AXIS2-1478,Incorporates,incorporates,0
+AXIS2-1506,AXIS2-1492,Incorporates,incorporates,0
+AXIS2-1506,AXIS2-1497,Incorporates,incorporates,0
+AXIS2-1506,AXIS2-1498,Incorporates,incorporates,0
+AXIS2-1506,AXIS2-1505,Incorporates,incorporates,0
+AXIS2-1580,AXIS2-2744,Reference,relates to,0
+AXIS2-1580,AXIS2-1606,Reference,relates to,0
+AXIS2-5234,AXIS2-5235,Reference,relates to,0
+AXIS2-5204,AXIS2-3971,Duplicate,duplicates,0
+AXIS2-5246,AXIS2-4896,Cloners,is a clone of,0
+AXIS2-5246,AXIS2-5145,Duplicate,duplicates,0
+AXIS2-5249,AXIS2-5147,Duplicate,duplicates,0
+AXIS2-5273,AXIS2-4859,Reference,relates to,0
+AXIS2-5211,AXIS2-5212,Duplicate,duplicates,0
+AXIS2-5215,AXIS2-5092,Reference,relates to,0
+AXIS2-2464,AXIS2-2706,Reference,relates to,0
+AXIS2-2494,AXIS2-3515,Blocker,blocks,0
+AXIS2-3964,AXIS2-4090,Reference,relates to,0
+AXIS2-3967,AXIS2-2766,Duplicate,duplicates,0
+AXIS2-3967,AXIS2-4769,Duplicate,duplicates,0
+AXIS2-3971,AXIS2-5204,Duplicate,duplicates,0
+AXIS2-3986,AXIS2-1374,Cloners,is a clone of,0
+AXIS2-3906,AXIS2-2163,Cloners,is a clone of,0
+AXIS2-3940,AXIS2-4465,Reference,relates to,0
+AXIS2-156,AXIS2-351,Reference,relates to,0
+AXIS2-103,AXIS2-101,Reference,relates to,0
+AXIS2-110,AXIS2-87,Blocker,blocks,0
+AXIS2-188,AXIS2-77,Duplicate,duplicates,0
+AXIS2-4091,AXIS2-4095,Incorporates,incorporates,0
+AXIS2-4094,AXIS2-1916,Cloners,is a clone of,0
+AXIS2-4050,AXIS2-3839,Duplicate,duplicates,0
+AXIS2-4065,AXIS2-3213,Reference,relates to,0
+AXIS2-4043,AXIS2-4042,Reference,relates to,0
+AXIS2-4045,AXIS2-4059,Reference,relates to,0
+AXIS2-4045,AXIS2-5322,Reference,relates to,0
+AXIS2-4042,AXIS2-4458,Reference,relates to,0
+AXIS2-4007,AXIS2-4163,Reference,relates to,0
+AXIS2-4071,AXIS2-4095,Incorporates,incorporates,0
+AXIS2-4071,AXIS2-4091,Reference,relates to,0
+AXIS2-4095,AXIS2-4082,dependent,depends upon,0
+AXIS2-4092,AXIS2-4818,Duplicate,duplicates,0
+AXIS2-4073,AXIS2-4441,Incorporates,incorporates,0
+AXIS2-4073,AXIS2-4442,Part-of,,1
+AXIS2-4073,AXIS2-4444,Part-of,,1
+AXIS2-4073,AXIS2-4445,Part-of,,1
+AXIS2-4090,AXIS2-3964,Reference,relates to,0
+AXIS2-4090,AXIS2-4082,dependent,depends upon,0
+AXIS2-352,AXIS2-1458,Reference,relates to,0
+AXIS2-352,AXIS2-234,Reference,relates to,0
+AXIS2-4484,AXIS2-1948,Cloners,is a clone of,0
+AXIS2-4487,AXIS2-3611,Reference,relates to,0
+AXIS2-4407,AXIS2-5191,Reference,relates to,0
+AXIS2-4441,AXIS2-4312,Duplicate,duplicates,0
+AXIS2-4483,AXIS2-4374,Cloners,is a clone of,0
+AXIS2-4410,AXIS2-4598,Duplicate,duplicates,0
+AXIS2-4410,AXIS2-4315,Duplicate,duplicates,0
+AXIS2-4402,AXIS2-4020,Duplicate,duplicates,0
+AXIS2-4482,AXIS2-4481,Reference,relates to,0
+AXIS2-4459,AXIS2-3341,Blocker,blocks,0
+AXIS2-4459,AXIS2-3736,Blocker,blocks,0
+AXIS2-4408,AXIS2-5092,Reference,relates to,0
+AXIS2-4439,AXIS2-3797,Duplicate,duplicates,0
+AXIS2-4464,AXIS2-4375,Incorporates,incorporates,0
+AXIS2-4464,AXIS2-4465,Reference,relates to,0
+AXIS2-4477,AXIS2-2947,Incorporates,incorporates,0
+AXIS2-4448,AXIS2-4004,Reference,relates to,0
+AXIS2-4480,AXIS2-4731,Part-of,,1
+AXIS2-3656,AXIS2-3418,Reference,relates to,0
+AXIS2-3656,AXIS2-3281,Reference,relates to,0
+AXIS2-3656,AXIS2-3651,Reference,relates to,0
+AXIS2-3649,AXIS2-3196,Duplicate,duplicates,0
+AXIS2-3699,AXIS2-2956,Blocker,blocks,0
+AXIS2-3699,AXIS2-4879,Blocker,blocks,0
+AXIS2-3621,AXIS2-3679,Reference,relates to,0
+AXIS2-3626,AXIS2-3627,Reference,relates to,0
+AXIS2-3626,AXIS2-3568,Reference,relates to,0
+AXIS2-3698,AXIS2-4465,Reference,relates to,0
+AXIS2-3655,AXIS2-3300,Reference,relates to,0
+AXIS2-3654,AXIS2-3620,dependent,depends upon,0
+AXIS2-1445,AXIS2-1132,Blocker,blocks,0
+AXIS2-1456,AXIS2-1364,Incorporates,incorporates,0
+AXIS2-1456,AXIS2-1365,Incorporates,incorporates,0
+AXIS2-1456,AXIS2-1366,Incorporates,incorporates,0
+AXIS2-1456,AXIS2-1368,Incorporates,incorporates,0
+AXIS2-1456,AXIS2-1400,Incorporates,incorporates,0
+AXIS2-1456,AXIS2-1401,Incorporates,incorporates,0
+AXIS2-1454,AXIS2-1373,Incorporates,incorporates,0
+AXIS2-1454,AXIS2-1390,Incorporates,incorporates,0
+AXIS2-1454,AXIS2-1394,Incorporates,incorporates,0
+AXIS2-1454,AXIS2-1464,Incorporates,incorporates,0
+AXIS2-1454,AXIS2-1367,Incorporates,incorporates,0
+AXIS2-1454,AXIS2-1369,Incorporates,incorporates,0
+AXIS2-1454,AXIS2-1372,Incorporates,incorporates,0
+AXIS2-1454,AXIS2-1451,Incorporates,incorporates,0
+AXIS2-1454,AXIS2-1370,Incorporates,incorporates,0
+AXIS2-1436,AXIS2-4051,Reference,relates to,0
+AXIS2-1435,AXIS2-1458,Reference,relates to,0
+AXIS2-1411,AXIS2-4634,Reference,relates to,0
+AXIS2-1258,AXIS2-1280,Reference,relates to,0
+AXIS2-1255,AXIS2-1251,Reference,relates to,0
+AXIS2-1285,AXIS2-1440,Reference,relates to,0
+AXIS2-1285,AXIS2-1252,Reference,relates to,0
+AXIS2-1264,AXIS2-1239,Reference,relates to,0
+AXIS2-1264,AXIS2-1150,dependent,depends upon,0
+AXIS2-1267,AXIS2-1252,Reference,relates to,0
+AXIS2-1249,AXIS2-1666,Blocker,blocks,0
+AXIS2-1268,AXIS2-1138,Cloners,is a clone of,0
+AXIS2-4184,AXIS2-5374,Reference,relates to,0
+AXIS2-4141,AXIS2-4465,Reference,relates to,0
+AXIS2-4159,AXIS2-4465,Reference,relates to,0
+AXIS2-4128,AXIS2-3967,Duplicate,duplicates,0
+AXIS2-4107,AXIS2-4477,Reference,relates to,0
+AXIS2-4131,AXIS2-3839,Duplicate,duplicates,0
+AXIS2-4189,AXIS2-3777,Duplicate,duplicates,0
+AXIS2-4144,AXIS2-3337,Reference,relates to,0
+AXIS2-4144,AXIS2-4465,Reference,relates to,0
+AXIS2-4124,AXIS2-2635,Cloners,is a clone of,0
+AXIS2-4154,AXIS2-4153,Reference,relates to,0
+AXIS2-4177,AXIS2-1702,Cloners,is a clone of,0
+AXIS2-4917,AXIS2-4349,dependent,depends upon,0
+AXIS2-4967,AXIS2-5036,Blocker,blocks,0
+AXIS2-4930,AXIS2-5203,Reference,relates to,0
+AXIS2-4914,AXIS2-4569,Duplicate,duplicates,0
+AXIS2-4900,AXIS2-4833,Duplicate,duplicates,0
+AXIS2-4902,AXIS2-4847,Blocker,blocks,0
+AXIS2-4924,AXIS2-4200,Cloners,is a clone of,0
+AXIS2-4944,AXIS2-4991,Reference,relates to,0
+AXIS2-1138,AXIS2-1150,Reference,relates to,0
+AXIS2-1132,AXIS2-1163,Reference,relates to,0
+AXIS2-1130,AXIS2-1128,dependent,depends upon,0
+AXIS2-2310,AXIS2-2305,Blocker,blocks,0
+AXIS2-2316,AXIS2-3468,Part-of,,1
+AXIS2-2377,AXIS2-2218,Reference,relates to,0
+AXIS2-4896,AXIS2-4670,Supercedes,supercedes,0
+AXIS2-4865,AXIS2-1784,Cloners,is a clone of,0
+AXIS2-4897,AXIS2-4896,Duplicate,duplicates,0
+AXIS2-4878,AXIS2-4524,Duplicate,duplicates,0
+AXIS2-4878,AXIS2-4629,Supercedes,supercedes,0
+AXIS2-4812,AXIS2-4809,Cloners,is a clone of,0
+AXIS2-4887,AXIS2-3851,Duplicate,duplicates,0
+AXIS2-4819,AXIS2-4437,Supercedes,supercedes,0
+AXIS2-4876,AXIS2-4855,Cloners,is a clone of,0
+AXIS2-3727,AXIS2-975,Cloners,is a clone of,0
+AXIS2-3792,AXIS2-3901,Part-of,,1
+AXIS2-3792,AXIS2-4161,Part-of,,1
+AXIS2-3792,AXIS2-4257,Part-of,,1
+AXIS2-3748,AXIS2-4989,Reference,relates to,0
+AXIS2-3760,AXIS2-3713,Cloners,is a clone of,0
+AXIS2-3760,AXIS2-4006,Reference,relates to,0
+AXIS2-3719,AXIS2-3337,Reference,relates to,0
+AXIS2-3755,AXIS2-3770,Reference,relates to,0
+AXIS2-3799,AXIS2-3792,Duplicate,duplicates,0
+AXIS2-3736,AXIS2-3341,Blocker,blocks,0
+AXIS2-624,AXIS2-531,Cloners,is a clone of,0
+AXIS2-623,AXIS2-484,Reference,relates to,0
+AXIS2-639,AXIS2-632,Reference,relates to,0
+AXIS2-5860,AXIS2-5589,Cloners,is a clone of,0
+AXIS2-5860,AXIS2-5589,Duplicate,duplicates,0
+AXIS2-5889,AXIS2-5890,Duplicate,duplicates,0
+AXIS2-5845,AXIS2-5809,Duplicate,duplicates,0
+AXIS2-5847,AXIS2-4756,Supercedes,supercedes,0
+AXIS2-5852,AXIS2-5696,Duplicate,duplicates,0
+AXIS2-5811,AXIS2-5809,Duplicate,duplicates,0
+AXIS2-5802,AXIS2-5799,Duplicate,duplicates,0
+AXIS2-5842,AXIS2-5342,Reference,relates to,0
+AXIS2-5851,AXIS2-5724,Duplicate,duplicates,0
+AXIS2-5848,AXIS2-5771,Duplicate,duplicates,0
+AXIS2-5855,AXIS2-5854,Duplicate,duplicates,0
+AXIS2-3876,AXIS2-4465,Reference,relates to,0
+AXIS2-3861,AXIS2-3732,Duplicate,duplicates,0
+AXIS2-3861,AXIS2-3862,Reference,relates to,0
+AXIS2-3861,AXIS2-3863,Reference,relates to,0
+AXIS2-3857,AXIS2-3792,Duplicate,duplicates,0
+AXIS2-3860,AXIS2-3826,Duplicate,duplicates,0
+AXIS2-3826,AXIS2-3827,Reference,relates to,0
+AXIS2-3843,AXIS2-3337,Reference,relates to,0
+AXIS2-3800,AXIS2-3792,Reference,relates to,0
+AXIS2-3812,AXIS2-3792,Duplicate,duplicates,0
+AXIS2-3136,AXIS2-5258,Reference,relates to,0
+AXIS2-3188,AXIS2-4478,Reference,relates to,0
+AXIS2-3188,AXIS2-4477,Reference,relates to,0
+AXIS2-3114,AXIS2-3653,Reference,relates to,0
+AXIS2-3124,AXIS2-422,Cloners,is a clone of,0
+AXIS2-2775,AXIS2-2744,Reference,relates to,0
+AXIS2-2701,AXIS2-3001,Reference,relates to,0
+AXIS2-2744,AXIS2-2741,Reference,relates to,0
+AXIS2-2744,AXIS2-2436,Reference,relates to,0
+AXIS2-2744,AXIS2-2464,Reference,relates to,0
+AXIS2-2713,AXIS2-2744,Reference,relates to,0
+AXIS2-2702,AXIS2-2778,Reference,relates to,0
+AXIS2-2717,AXIS2-2762,Reference,relates to,0
+AXIS2-2761,AXIS2-2757,Blocker,blocks,0
+AXIS2-2761,AXIS2-1964,Reference,relates to,0
+AXIS2-2776,AXIS2-2720,Reference,relates to,0
+AXIS2-2722,AXIS2-3449,dependent,depends upon,0
+AXIS2-2722,AXIS2-3572,dependent,depends upon,0
+AXIS2-2722,AXIS2-3573,dependent,depends upon,0
+AXIS2-2722,AXIS2-3448,dependent,depends upon,0
+AXIS2-2722,AXIS2-3576,dependent,depends upon,0
+AXIS2-2722,AXIS2-3223,dependent,depends upon,0
+AXIS2-2769,AXIS2-2744,Reference,relates to,0
+AXIS2-2759,AXIS2-2744,Reference,relates to,0
+AXIS2-2778,AXIS2-2748,Reference,relates to,0
+AXIS2-2772,AXIS2-2744,Reference,relates to,0
+AXIS2-2735,AXIS2-1867,Cloners,is a clone of,0
+AXIS2-3418,AXIS2-4818,Duplicate,duplicates,0
+AXIS2-3447,AXIS2-1804,Cloners,is a clone of,0
+AXIS2-3453,AXIS2-3146,Incorporates,incorporates,0
+AXIS2-3420,AXIS2-1791,Reference,relates to,0
+AXIS2-3454,AXIS2-3052,Reference,relates to,0
+AXIS2-3454,AXIS2-3552,Reference,relates to,0
+AXIS2-3477,AXIS2-2834,Reference,relates to,0
+AXIS2-3416,AXIS2-1598,Cloners,is a clone of,0
+AXIS2-1093,AXIS2-983,Reference,relates to,0
+AXIS2-1093,AXIS2-1552,Reference,relates to,0
+AXIS2-1046,AXIS2-1159,Reference,relates to,0
+AXIS2-1009,AXIS2-1015,Reference,relates to,0
+AXIS2-1092,AXIS2-983,Reference,relates to,0
+AXIS2-1033,AXIS2-940,Reference,relates to,0
+AXIS2-1089,AXIS2-1107,Reference,relates to,0
+AXIS2-1089,AXIS2-1093,Reference,relates to,0
+AXIS2-1029,AXIS2-1015,Reference,relates to,0
+AXIS2-1016,AXIS2-993,Reference,relates to,0
+AXIS2-1016,AXIS2-1036,Reference,relates to,0
+AXIS2-1087,AXIS2-907,Cloners,is a clone of,0
+AXIS2-1041,AXIS2-1029,Reference,relates to,0
+AXIS2-1045,AXIS2-1041,Reference,relates to,0
+AXIS2-1045,AXIS2-1029,Reference,relates to,0
+AXIS2-2902,AXIS2-4197,Duplicate,duplicates,0
+AXIS2-2990,AXIS2-3337,Reference,relates to,0
+AXIS2-2931,AXIS2-2593,Cloners,is a clone of,0
+AXIS2-2931,AXIS2-3478,Incorporates,incorporates,0
+AXIS2-2931,AXIS2-2660,Reference,relates to,0
+AXIS2-4270,AXIS2-4269,Blocker,blocks,0
+AXIS2-4279,AXIS2-4282,Reference,relates to,0
+AXIS2-4291,AXIS2-3290,Duplicate,duplicates,0
+AXIS2-4285,AXIS2-3331,Cloners,is a clone of,0
+AXIS2-4251,AXIS2-3851,Duplicate,duplicates,0
+AXIS2-805,AXIS2-1252,Reference,relates to,0
+AXIS2-805,AXIS2-1267,Reference,relates to,0
+AXIS2-864,AXIS2-1199,Part-of,,1
+AXIS2-800,AXIS2-801,Reference,relates to,0
+AXIS2-842,AXIS2-840,Reference,relates to,0
+AXIS2-1885,AXIS2-1781,Cloners,is a clone of,0
+AXIS2-1885,AXIS2-3036,Reference,relates to,0
+AXIS2-1867,AXIS2-1765,Reference,relates to,0
+AXIS2-3366,AXIS2-2398,Cloners,is a clone of,0
+AXIS2-3307,AXIS2-3257,Duplicate,duplicates,0
+AXIS2-3307,AXIS2-3255,Reference,relates to,0
+AXIS2-42,AXIS2-214,Blocker,blocks,0
+AXIS2-57,AXIS2-219,Reference,relates to,0
+AXIS2-987,AXIS2-963,Reference,relates to,0
+AXIS2-906,AXIS2-1011,Reference,relates to,0
+AXIS2-916,AXIS2-986,Reference,relates to,0
+AXIS2-935,AXIS2-2593,Reference,relates to,0
+AXIS2-935,AXIS2-2931,Reference,relates to,0
+AXIS2-942,AXIS2-1233,Reference,relates to,0
+AXIS2-5119,AXIS2-4524,Duplicate,duplicates,0
+AXIS2-5119,AXIS2-4878,Duplicate,duplicates,0
+AXIS2-5119,AXIS2-5118,Duplicate,duplicates,0
+AXIS2-5135,AXIS2-5071,Duplicate,duplicates,0
+AXIS2-5163,AXIS2-5145,Duplicate,duplicates,0
+AXIS2-5118,AXIS2-4524,Duplicate,duplicates,0
+AXIS2-5118,AXIS2-4878,Duplicate,duplicates,0
+AXIS2-5195,AXIS2-5199,Duplicate,duplicates,0
+AXIS2-5160,AXIS2-5145,Duplicate,duplicates,0
+AXIS2-5117,AXIS2-3404,Cloners,is a clone of,0
+AXIS2-5114,AXIS2-3967,Duplicate,duplicates,0
+AXIS2-2125,AXIS2-2855,Reference,relates to,0
+AXIS2-586,AXIS2-479,Cloners,is a clone of,0
+AXIS2-522,AXIS2-518,Reference,relates to,0
+AXIS2-535,AXIS2-104,Cloners,is a clone of,0
+AXIS2-533,AXIS2-172,Reference,relates to,0
+AXIS2-576,AXIS2-577,Part-of,,1
+AXIS2-576,AXIS2-578,Part-of,,1
+AXIS2-576,AXIS2-579,Part-of,,1
+AXIS2-557,AXIS2-484,Reference,relates to,0
+AXIS2-545,AXIS2-2552,Reference,relates to,0
+AXIS2-545,AXIS2-1381,Reference,relates to,0
+AXIS2-536,AXIS2-104,Cloners,is a clone of,0
+AXIS2-551,AXIS2-484,Reference,relates to,0
+AXIS2-527,AXIS2-557,Reference,relates to,0
+AXIS2-2679,AXIS2-2636,Reference,relates to,0
+AXIS2-2661,AXIS2-2744,Reference,relates to,0
+AXIS2-2668,AXIS2-754,Cloners,is a clone of,0
+AXIS2-2624,AXIS2-1132,Duplicate,duplicates,0
+AXIS2-2624,AXIS2-2776,Reference,relates to,0
+AXIS2-2673,AXIS2-2633,Cloners,is a clone of,0
+AXIS2-2673,AXIS2-3692,Duplicate,duplicates,0
+AXIS2-224,AXIS2-220,Reference,relates to,0
+AXIS2-250,AXIS2-704,Part-of,,1
+AXIS2-250,AXIS2-750,Part-of,,1
+AXIS2-250,AXIS2-948,Part-of,,1
+AXIS2-265,AXIS2-232,Incorporates,incorporates,0
+AXIS2-5395,AXIS2-5331,Duplicate,duplicates,0
+AXIS2-5342,AXIS2-5789,Blocked,Blocked,0
+AXIS2-5342,AXIS2-4190,Duplicate,duplicates,0
+AXIS2-2055,AXIS2-1899,Reference,relates to,0
+AXIS2-752,AXIS2-1019,Part-of,,1
+AXIS2-710,AXIS2-733,Part-of,,1
+AXIS2-761,AXIS2-812,Reference,relates to,0
+AXIS2-2893,AXIS2-926,Reference,relates to,0
+AXIS2-2800,AXIS2-1363,Reference,relates to,0
+AXIS2-2853,AXIS2-3568,Reference,relates to,0
+AXIS2-2883,AXIS2-4330,Blocker,blocks,0
+AXIS2-2823,AXIS2-2822,Cloners,is a clone of,0
+AXIS2-1702,AXIS2-2706,Reference,relates to,0
+AXIS2-1723,AXIS2-1701,Reference,relates to,0
+AXIS2-1774,AXIS2-1854,Reference,relates to,0
+AXIS2-1720,AXIS2-2744,Reference,relates to,0
+AXIS2-1769,AXIS2-1784,Reference,relates to,0
+AXIS2-1711,AXIS2-2473,Part-of,,1
+AXIS2-1781,AXIS2-3036,Reference,relates to,0
+AXIS2-1739,AXIS2-1861,Part-of,,1
+AXIS2-1745,AXIS2-1883,Reference,relates to,0
+AXIS2-5620,AXIS2-3919,Duplicate,duplicates,0
+AXIS2-5687,AXIS2-4833,Duplicate,duplicates,0
+AXIS2-5668,AXIS2-5697,Required,requires,0
+AXIS2-5668,AXIS2-5672,Required,requires,0
+AXIS2-5659,AXIS2-4066,Reference,relates to,0
+AXIS2-5630,AXIS2-3919,Duplicate,duplicates,0
+AXIS2-5680,AXIS2-3919,Reference,relates to,0
+AXIS2-5686,AXIS2-4833,Duplicate,duplicates,0
+AXIS2-5686,AXIS2-5685,Duplicate,duplicates,0
+AXIS2-5586,AXIS2-5303,Duplicate,duplicates,0
+AXIS2-5523,AXIS2-5534,Incorporates,incorporates,0
+AXIS2-5549,AXIS2-5524,Reference,relates to,0
+AXIS2-5576,AXIS2-5413,Duplicate,duplicates,0
+AXIS2-4582,AXIS2-3005,Duplicate,duplicates,0
+AXIS2-4597,AXIS2-4465,Duplicate,duplicates,0
+AXIS2-4501,AXIS2-4327,Duplicate,duplicates,0
+AXIS2-4517,AXIS2-3276,Duplicate,duplicates,0
+AXIS2-4598,AXIS2-4315,Duplicate,duplicates,0
+AXIS2-4598,AXIS2-4315,Reference,relates to,0
+AXIS2-4558,AXIS2-4539,Cloners,is a clone of,0
+AXIS2-4587,AXIS2-3454,Cloners,is a clone of,0
+AXIS2-4586,AXIS2-3218,Reference,relates to,0
+AXIS2-4589,AXIS2-4943,Part-of,,1
+AXIS2-1964,AXIS2-2667,Reference,relates to,0
+AXIS2-1947,AXIS2-744,Blocker,blocks,0
+AXIS2-1947,AXIS2-744,Cloners,is a clone of,0
+AXIS2-1968,AXIS2-1956,Reference,relates to,0
+AXIS2-1920,AXIS2-1925,Reference,relates to,0
+AXIS2-5459,AXIS2-5365,Duplicate,duplicates,0
+AXIS2-5487,AXIS2-5304,Cloners,is a clone of,0
+AXIS2-5440,AXIS2-5125,Duplicate,duplicates,0
+AXIS2-5423,AXIS2-5422,Duplicate,duplicates,0
+AXIS2-5470,AXIS2-5503,Duplicate,duplicates,0
+AXIS2-5469,AXIS2-5202,Duplicate,duplicates,0
+AXIS2-2593,AXIS2-2660,Reference,relates to,0
+AXIS2-2593,AXIS2-3478,Part-of,,1
+AXIS2-2504,AXIS2-2567,Reference,relates to,0
+AXIS2-2511,AXIS2-2829,Blocker,blocks,0
+AXIS2-2550,AXIS2-3558,Reference,relates to,0
+AXIS2-1363,AXIS2-1134,Incorporates,incorporates,0
+AXIS2-1314,AXIS2-1411,Reference,relates to,0
+AXIS2-1399,AXIS2-1445,Reference,relates to,0
+AXIS2-1388,AXIS2-1315,Cloners,is a clone of,0
