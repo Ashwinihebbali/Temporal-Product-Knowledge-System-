@@ -1,4 +1,4 @@
-# ChronoDev AI — Autonomous Product History & Knowledge Graph
+# ChronoDev AI — Autonomous Product History & Knowledge Graph 
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688.svg?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![React](https://img.shields.io/badge/React-19.1-61DAFB.svg?logo=react&logoColor=black)](https://react.dev)
